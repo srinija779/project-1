@@ -1,4 +1,4 @@
 # project-1
-To run snake game on Windows, install windows-curses:
+snake game on Windows
 
-pip install windows-curses
+
